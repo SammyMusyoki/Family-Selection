@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Poppins:wght@400;500;600;700&family=Roboto+Mono:wght@400;500;600&family=Roboto:wght@100;400;500;700&display=swap');
+
+/* .havos {
+    background-color: "rgba(14, 219, 132, 0.9)",
+} */
